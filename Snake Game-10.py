@@ -21,6 +21,7 @@ wn.setup(width=800,height=600)
 wn.tracer(0)
 
 # Create Snake Head
+#Create nake head 2
 snake_head = turtle.Turtle()
 snake_head.shape("square")
 snake_head.color("black")
